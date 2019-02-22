@@ -8,5 +8,7 @@ criptKey = [[1, 0, 0], [1, 3, 1], [1, 2, 0]]
 
 
 • TO DO:
+
   • Add the maths
+  
   • Solve using GoLang.
