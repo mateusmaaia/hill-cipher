@@ -1,6 +1,6 @@
 # Hill Cipher Challenge (FIAP)
 
-The challenge was to decript a message using Hill Cipher and a pre-defined non-mod-26 matrix. I solved using python3 and numpy lib.
+The challenge was to decript a message using Hill Cipher and a pre-defined non-mod-26 matrix. I solved using python3 and numpy lib, and I will also add the maths here later.
 
 message = "S Ţ Õ V ŝ Ø O ƙ ó M Ţ Ï E Ű á"
 
